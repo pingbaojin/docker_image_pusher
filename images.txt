@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 ecpe4s/ubuntu20.04
+homebrew/ubuntu18.04
