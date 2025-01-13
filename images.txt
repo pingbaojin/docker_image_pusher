@@ -10,3 +10,4 @@ amd64/ubuntu:18.04
 vinsdocker/jmserver:latest
 yxlln/lio-sam:latest
 lin2022/aloam:v2
+kenny0407/marslab_fastlio2:latest
