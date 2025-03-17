@@ -11,3 +11,4 @@ vinsdocker/jmserver:latest
 yxlln/lio-sam:latest
 lin2022/aloam:v2
 kenny0407/marslab_fastlio2:latest
+nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
