@@ -15,4 +15,4 @@
 #carlasim/carla:0.9.15
 #xuhao1/swarm2020
 #blueberryfaygo/compiled_omniswarm:pc
-zeallin/spl_lio_sam
+zeallin/spl_lio_sam:v1.0
