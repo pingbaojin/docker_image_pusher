@@ -5,14 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-amd64/ubuntu:20.04
-amd64/ubuntu:18.04
-vinsdocker/jmserver:latest
-yxlln/lio-sam:latest
-lin2022/aloam:v2
-kenny0407/marslab_fastlio2:latest
-nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
+#amd64/ubuntu:20.04
+#amd64/ubuntu:18.04
+#vinsdocker/jmserver:latest
+#yxlln/lio-sam:latest
+#lin2022/aloam:v2
+#kenny0407/marslab_fastlio2:latest
+#nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
 #carlasim/carla:0.9.15
-xuhao1/swarm2020
-blueberryfaygo/compiled_omniswarm:pc
+#xuhao1/swarm2020
+#blueberryfaygo/compiled_omniswarm:pc
 zeallin/spl_lio_sam
