@@ -15,4 +15,5 @@
 #carlasim/carla:0.9.15
 #xuhao1/swarm2020
 #blueberryfaygo/compiled_omniswarm:pc
-zeallin/spl_lio_sam:v1.0
+#zeallin/spl_lio_sam:v1.0
+nvidia/cuda:11.1.1-cudnn8-devel-ubuntu20.04
